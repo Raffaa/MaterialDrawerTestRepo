@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_parent_margin">20dp</dimen>
+
+    <dimen name="sidebarItemHeight">64dp</dimen>
+    <dimen name="sidebarExpandedItemIconWidth">48dp</dimen>
+    <dimen name="sidebarExpandedItemIconHeight">48dp</dimen>
+    <dimen name="sideBarItemPadding">8dp</dimen>
+    <dimen name="sideBarItemInsideSpacing">12dp</dimen>
+</resources>
